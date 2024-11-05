@@ -1,13 +1,17 @@
 {
-  "name": "[internal-mod-name]",
-  "version": "0.0.0",
-  "title": "[MOD DISPLAY NAME]",
-  "author": "[YOUR MODS.FACTORIO.COM USERNAME]",
+  "name": "intercontinental-rocketry",
+  "version": "0.0.1",
+  "title": "Intercontinental Rocketry (Seven surfaces per planet)",
+  "author": "MeteorSwarm",
   "homepage": "[HOMEPAGE/REPO URL]",
   "description": "[SHORT DESCRIPTION]",
   "factorio_version": "2.0",
   "dependencies": [
-    "base"
+    "base",
+    "space-age",
+    "? cargo-ships",
+    "? alien-biomes",
+    "? naufulglebunusilo"
   ],
   "quality_required": false,
   "rail_bridges_required": false,
